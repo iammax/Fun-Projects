@@ -1,3 +1,6 @@
+#this grabs best-selling console info from wikipedia using curl (requests would probably work fine too, I was just tesing this method), grabs the tables with pandas, then plots them
+
+
 import subprocess
 import pandas as pd
 import re
