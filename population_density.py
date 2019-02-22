@@ -1,4 +1,4 @@
-num_of_states_to_count = 25 # calculates the population density of the USA only including the top X states. Excluding D.C. since it's all heavily urban
+num_of_states_to_count = 7 # calculates the population density of the USA only including the top X states. Excluding D.C. since it's all heavily urban
 
 
 import requests
