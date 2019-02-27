@@ -1,5 +1,7 @@
-num_of_states_to_count = 7 # calculates the population density of the USA only including the top X states. Excluding D.C. since it's all heavily urban
-
+num_of_states_to_count = input('Count the top X states: ') # calculates the population density of the USA only including the top X states. Excluding D.C. since it's all heavily urban
+if num_of_states_to_count > 50 or num_of_states_to_count < 1:
+	print "There aren't {0} states, pick between 1 and 50".format(num_of_states_to_count)
+	quit()
 
 import requests
 import pandas as pd
