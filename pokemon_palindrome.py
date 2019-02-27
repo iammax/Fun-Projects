@@ -1,4 +1,5 @@
-#To check if any pokemon's number is a palindrome AND their base stat total is a palindrome. Thanks to hoopsandhiphop on youtube for the idea
+#To check if any pokemon's number is a palindrome AND their base stat total is a palindrome. 
+#Thanks to hoopsandhiphop on youtube for the idea
 
 import requests
 import progressbar
