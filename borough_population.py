@@ -33,7 +33,7 @@ def get_data(url, name, tablenums, cols):
                 out_x.append(x)
                 out_y.append(y)
         except:
-            print "Can't convert something in this row to float: ", row
+            print "Can't convert something in this row to float or int: ", row
     return [out_x, out_y]
         
     
