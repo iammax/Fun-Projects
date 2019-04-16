@@ -1,6 +1,6 @@
-num_of_states_to_count = input('Count the top X states: ') # calculates the population density of the USA only including the top X states. Excluding D.C. since it's all heavily urban
+num_of_states_to_count = int(input('Count the top X states: ')) # calculates the population density of the USA only including the top X states. Excluding D.C. since it's all heavily urban
 if num_of_states_to_count > 50 or num_of_states_to_count < 1:
-	print "There aren't {0} states, pick between 1 and 50".format(num_of_states_to_count)
+	print ("There aren't {0} states, pick between 1 and 50".format(num_of_states_to_count))
 	quit()
 
 import requests
@@ -27,4 +27,4 @@ area = 0
 for rank in range (1, num_of_states_to_count+1):
 	pop += states[rank][1]
 	area += states[rank][2]
-print 'Final density, in people/sq mile: ', pop/area
+print ('Final density, in people/sq mile: ', pop/area)
