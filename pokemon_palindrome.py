@@ -39,5 +39,4 @@ for pokenum in progressbar.progressbar(range(810)):
 					
 					outlines.append('{0} checks! Stats = {1}, number = {2}'.format(name, bst, pokenum))
 for line in outlines:
-	print line
-					
+	print(line)

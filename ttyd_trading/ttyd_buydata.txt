@@ -1,0 +1,83 @@
+
+Toad Bros. Bazaar
+Mushroom	5 Coins
+Honey Syrup	5 Coins
+Tasty Tonic	3 Coins
+Fire Flower	10 Coins
+Sleepy Sheep	8 Coins
+Fright Mask	5 Coins
+
+Westside Goods
+Thunder Bolt	10 Coins
+Dizzy Dial	12 Coins
+Life Shroom	50 Coins
+Dried Shroom	2 Coins
+Volt Shroom	10 Coins
+Super Shroom	20 Coins
+
+Niff T.'s Shop
+Fire Flower	8 Coins
+POW Block	5 Coins
+Courage Shell	5 Coins
+Mr. Softener	8 Coins
+Honey Syrup	5 Coins
+Mushroom	4 Coins
+
+Pungent's Shop
+Mushroom	3 Coins
+Honey Syrup	5 Coins
+Mini Mr. Mini	8 Coins
+HP Drain	10 Coins
+Ice Storm	15 Coins
+Mystery	3 Coins
+
+Souvenir Shop
+Hot Sauce	10 Coins
+Hot Dog	10 Coins
+Earth Quake	15 Coins
+Thunder Bolt	12 Coins
+Power Punch	15 Coins
+Repel Cape	15 Coins
+Point Swap	5 Coins
+Super Shroom	15 Coins
+
+Twilight Shop
+Thunder Rage	20 Coins
+Spite Pouch	10 Coins
+Stopwatch	30 Coins
+Maple Syrup	20 Coins
+Super Shroom	15 Coins
+Life Shroom	40 Coins
+
+Keelhaul Galleria
+Ice Storm	15 Coins
+Fire Flower	5 Coins
+Sleepy Sheep	10 Coins
+Fright Mask	2 Coins
+Honey Syrup	3 Coins
+Super Shroom	12 Coins
+
+Sales Stall
+Fresh Pasta	50 Coins
+Thunder Rage	15 Coins
+Mystery	3 Coins
+Boo's Sheet	20 Coins
+Tasty Tonic	3 Coins
+Maple Syrup	15 Coins
+Super Shroom	15 Coins
+
+Northwinds Mart
+Shooting Star	30 Coins
+Ice Storm	6 Coins
+Ruin Powder	15 Coins
+Stopwatch	12 Coins
+Maple Syrup	20 Coins
+Super Shroom	15 Coins
+
+Deepdown Depot
+Slow Shroom	15 Coins
+Gradual Syrup	15 Coins
+Ultra Shroom	200 Coins
+Jammin' Jelly	200 Coins
+Gold Bar	110 Coins
+Gold Bar x3	350 Coins

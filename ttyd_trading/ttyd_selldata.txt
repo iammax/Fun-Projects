@@ -1,0 +1,224 @@
+Toad Bros. Bazaar
+Westside Goods
+Niff T.'s Shop
+Pungent's Shop
+Souvenir Shop
+Twilight Shop
+Keelhaul Galleria
+Sales Stall
+Northwinds Mart
+Deepdown Depot
+Boo's Sheet TTYD.png
+Boo's Sheet	10	10	10	10	10	10	10	10	10	10
+Cake Mix TTYD.png
+Cake Mix	8	4	4	4	4	4	4	8	4	4
+Chocolate Cake TTYD.png
+Choco Cake	25	25	25	25	25	25	25	25	25	25
+Coco Candy TTYD.png
+Coco Candy	12	12	12	12	12	12	12	12	12	12
+Coconut TTYD.png
+Coconut	2	2	1	1	3	1	1	4	1	1
+Coconut Bomb TTYD.png
+Coconut Bomb	5	5	5	5	5	5	5	5	5	8
+Couple's Cake TTYD.png
+Couple's Cake	10	10	10	10	10	10	10	10	10	10
+Courage Meal TTYD.png
+Courage Meal	10	10	10	10	10	10	10	10	10	20
+Courage Shell TTYD.png
+Courage Shell	2	2	2	2	2	2	2	2	2	2
+Dizzy Dial TTYD.png
+Dizzy Dial	6	6	6	6	6	6	6	6	6	6
+Dried Bouquet TTYD.png
+Dried Bouquet	12	5	2	5	5	14	5	17	5	5
+Dried Shroom TTYD.png
+Dried Shroom	1	1	1	1	1	4	1	1	1	1
+Earth Quake TTYD.png
+Earth Quake	7	7	7	7	7	7	7	7	7	7
+Egg Bomb TTYD.png
+Egg Bomb	10	10	10	10	10	10	10	10	10	15
+Electro Pop TTYD.png
+Electro Pop	25	25	25	25	25	25	25	25	25	25
+Fire Flower TTYD.png
+Fire Flower	5	5	4	5	5	5	2	5	8	5
+Fire Pop TTYD.png
+Fire Pop	20	20	20	20	20	20	20	20	24	20
+Fresh Juice TTYD.png
+Fresh Juice	3	3	3	3	3	3	3	3	3	3
+Fresh Pasta TTYD.png
+Fresh Pasta	53	25	25	25	25	25	25	25	25	25
+Fried Egg TTYD.png
+Fried Egg	7	7	7	7	7	7	7	7	7	7
+Fright Mask TTYD.png
+Fright Mask	2	2	2	4	2	2	1	2	2	2
+Fruit Parfait TTYD.png
+Fruit Parfait	10	10	10	10	10	10	10	10	10	10
+Gold Bar TTYD.png
+Gold Bar	100	100	100	100	100	100	100	100	100	100
+Gold Bar x3 TTYD.png
+Gold Bar x3	300	300	300	300	300	300	300	300	300	300
+Golden Leaf TTYD.png
+Golden Leaf	4	3	5	3	3	3	3	7	3	3
+Gradual Syrup TTYD.png
+Gradual Syrup	8	7	7	7	7	7	7	7	7	7
+Healthy Salad TTYD.png
+Healthy Salad	5	5	5	5	5	5	5	5	5	5
+Heartful Cake TTYD.png
+Heartful Cake	10	10	10	10	10	10	10	10	10	10
+Honey Candy TTYD.png
+Honey Candy	15	15	15	15	15	15	15	15	15	15
+Honey Shroom TTYD.png
+Honey Shroom	10	10	10	10	10	10	10	10	10	10
+Honey Super TTYD.png
+Honey Super	20	20	20	20	20	20	20	20	20	20
+Honey Syrup TTYD.png
+Honey Syrup	2	2	2	2	2	2	1	2	2	2
+Honey Ultra TTYD.png
+Honey Ultra	75	75	75	75	75	75	75	75	75	75
+Horsetail TTYD.png
+Horsetail	2	2	1	1	1	1	1	5	1	1
+Hot Dog TTYD.png
+Hot Dog	5	5	5	5	5	5	13	5	5	5
+Hot Sauce TTYD.png
+Hot Sauce	11	5	5	5	5	12	5	15	14	5
+HP Drain item.png
+HP Drain	5	5	5	5	5	5	5	5	5	5
+Ice Storm TTYD.png
+Ice Storm	7	7	7	7	7	7	10	7	3	7
+Icicle Pop TTYD.png
+Icicle Pop	15	15	15	15	15	15	20	15	15	15
+Ink Pasta TTYD.png
+Ink Pasta	80	80	80	80	80	80	80	80	80	80
+Inky Sauce TTYD.png
+Inky Sauce	10	10	10	10	10	10	10	10	15	10
+Inn Coupon TTYD.png
+Inn Coupon	5	5	5	5	5	5	5	5	5	5
+Jammin Jelly TTYD.png
+Jammin' Jelly	50	50	50	50	50	50	50	50	50	50
+Jelly Candy TTYD.png
+Jelly Candy	100	100	100	100	100	100	100	100	100	100
+Jelly Shroom TTYD.png
+Jelly Shroom	75	75	75	75	75	75	75	75	75	75
+Jelly Super TTYD.png
+Jelly Super	100	100	100	100	100	100	100	100	100	100
+Jelly Ultra TTYD.png
+Jelly Ultra	150	150	150	150	150	200	150	150	150	150
+Keel Mango TTYD.png
+Keel Mango	4	3	2	2	3	2	2	4	2	2
+Koopa Bun TTYD.png
+Koopa Bun	7	7	10	7	7	7	7	7	7	7
+Koopa Tea TTYD.png
+Koopa Tea	3	3	4	3	3	3	3	3	3	3
+Koopasta TTYD.png
+Koopasta	60	60	60	60	60	60	60	60	60	60
+Life Shroom TTYD.png
+Life Shroom	20	25	20	43	20	20	20	20	20	20
+Love Pudding TTYD.png
+Love Pudding	10	10	10	10	10	10	10	10	10	10
+Mango Delight TTYD.png
+Mango Delight	10	10	10	10	10	10	10	10	10	10
+Maple Shroom TTYD.png
+Maple Shroom	25	25	25	25	25	25	25	25	25	25
+Maple Super TTYD.png
+Maple Super	35	35	35	35	35	35	35	35	35	35
+Maple Syrup TTYD.png
+Maple Syrup	10	10	10	10	10	10	10	7	10	10
+Maple Ultra TTYD.png
+Maple Ultra	100	100	100	100	100	100	100	100	100	100
+Meteor Meal TTYD.png
+Meteor Meal	40	40	40	40	40	40	40	40	40	40
+PMTTYD Mini Mr Mini Sprite.png
+Mini Mr. Mini	5	5	5	4	5	5	5	5	5	5
+Mistake TTYD.png
+Mistake	1	1	1	1	1	3	1	1	1	1
+Mousse Cake TTYD.png
+Mousse Cake	10	10	10	10	10	10	10	10	10	10
+Mr Softener TTYD.png
+Mr. Softener	5	5	4	5	5	5	5	5	5	5
+MushroomTTYD.png
+Mushroom	2	2	2	1	2	2	2	2	2	2
+Mystery TTYD.png
+Mystery	1	1	1	1	1	1	1	1	1	1
+Mystic Egg TTYD.png
+Mystic Egg	5	2	2	2	2	2	2	6	2	2
+Omelette Meal TTYD.png
+Omelette Meal	10	10	10	10	10	10	10	10	10	10
+Peachy Peach TTYD.png
+Peachy Peach	4	3	3	3	6	3	3	8	3	3
+Peach Tart TTYD.png
+Peach Tart	10	10	10	10	10	10	10	10	10	10
+Point Swap TTYD.png
+Point Swap	2	2	2	2	2	2	2	2	2	2
+Poison Shroom TTYD.png
+Poison Shroom	20	20	20	20	20	20	20	20	20	25
+POW Block TTYD.png
+POW Block	2	2	2	2	2	2	2	2	2	2
+Power Punch TTYD.png
+Power Punch	7	7	7	17	7	7	7	7	7	7
+Repel Cape TTYD.png
+Repel Cape	7	7	7	7	7	7	7	7	7	7
+Ruin Powder TTYD.png
+Ruin Powder	7	7	7	7	7	7	7	7	7	7
+Shooting Star TTYD.png
+Shooting Star	15	15	15	15	15	15	15	15	15	15
+Shroom Broth TTYD.png
+Shroom Broth	20	20	20	20	20	20	20	20	20	20
+Shroom Cake TTYD.png
+Shroom Cake	20	20	20	20	20	20	20	20	20	20
+Shroom Crepe TTYD.png
+Shroom Crepe	100	100	100	100	100	100	100	100	100	100
+Shroom Fry TTYD.png
+Shroom Fry	5	5	5	5	5	5	5	5	5	5
+Shroom Roast TTYD.png
+Shroom Roast	15	15	15	15	15	15	15	15	15	15
+Shroom Steak TTYD.png
+Shroom Steak	45	45	45	45	45	45	45	45	45	45
+Sleepy Sheep TTYD.png
+Sleepy Sheep	4	4	10	4	4	4	5	4	4	4
+Slow Shroom TTYD.png
+Slow Shroom	7	7	7	7	7	7	7	7	7	7
+Snow Bunny TTYD.png
+Snow Bunny	10	10	10	10	10	10	15	10	10	10
+Space Food TTYD.png
+Space Food	10	10	10	10	10	10	10	10	10	10
+Spaghetti TTYD.png
+Spaghetti	30	30	30	30	30	30	30	30	30	30
+Spicy Pasta TTYD.png
+Spicy Pasta	30	30	30	30	30	30	30	30	60	30
+Spicy Soup TTYD.png
+Spicy Soup	5	5	5	5	5	5	5	5	20	5
+Spite Pouch TTYD.png
+Spite Pouch	7	7	7	7	7	5	7	7	7	7
+Stop Watch TTYD.png
+Stopwatch	10	10	10	10	10	15	10	10	6	10
+Super Shroom TTYD.png
+Super Shroom	7	10	7	14	7	7	6	7	7	7
+Tasty Tonic TTYD.png
+Tasty Tonic	1	1	1	1	1	1	5	1	1	1
+Thunder Bolt TTYD.png
+Thunder Bolt	4	5	4	4	6	4	4	4	4	4
+Thunder Rage TTYD.png
+Thunder Rage	10	10	10	10	10	10	10	7	10	10
+Trial Stew TTYD.png
+Trial Stew	1	1	1	1	1	1	1	1	1	1
+Turtley Leaf TTYD.png
+Turtley Leaf	2	2	1	1	1	1	1	5	1	1
+Ultra Shroom TTYD.png
+Ultra Shroom	50	50	50	75	50	50	50	50	50	50
+Volt Shroom TTYD.png
+Volt Shroom	5	5	5	5	5	5	5	5	5	5
+Whacka Bump TTYD.png
+Whacka Bump	55	64	50	50	50	50	50	100	50	50
+Zess Cookie TTYD.png
+Zess Cookie	20	20	20	20	20	20	20	20	20	20
+Zess Deluxe TTYD.png
+Zess Deluxe	60	60	60	60	75	60	60	60	60	60
+Zess Dinner TTYD.png
+Zess Dinner	7	7	7	7	15	7	7	7	7	7
+Zess Dynamite TTYD.png
+Zess Dynamite	20	20	20	20	20	20	20	20	20	40
+Zess Frappe TTYD.png
+Zess Frappe	30	30	30	30	30	30	35	30	30	30
+Zess Special TTYD.png
+Zess Special	15	15	15	15	25	15	15	15	15	15
+Zess Tea TTYD.png
+Zess Tea	6	6	6	6	6	6	6	6	6	6
